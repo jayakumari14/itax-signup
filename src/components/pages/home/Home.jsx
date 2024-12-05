@@ -5,7 +5,7 @@ import axios from "axios";
 import { _ } from "ag-grid-community";
 import Marquee from "react-fast-marquee";
 import Card from "../../ui/styles/cardStyles.jsx";
-import { HoveringNavCard } from "../../ui/styles/navCardStyle.jsx";
+import { HoveringNavCard } from "@/components/ui/styles/navCardStyle.jsx";
 import Link from "next/link";
 import Image from "next/image";
 import OngoingProjects from "./OngoingProjects.jsx";
